@@ -4,7 +4,7 @@
 ---
 
 ### ⚡ Technical Philosophy
-Karmaşık problemleri, sürdürülebilir ve yüksek performanslı mimarilere dönüştürmeye odaklanıyorum. DevOps kültürünü geliştirme süreçlerimin merkezine koyarak, "yaz ve unut" değil, "yaz ve ölçekle" prensibiyle hareket ediyorum.
+Focused on engineering sustainable and high-performance solutions for complex challenges. With DevOps at my core, I don't just 'write and forget'—I follow a 'write and scale' philosophy.
 
 ---
 
@@ -12,26 +12,38 @@ Karmaşık problemleri, sürdürülebilir ve yüksek performanslı mimarilere d�
 
 | Area | Mastery Stack |
 | :--- | :--- |
-| **Architecture** | Microservices, System Design, API Gateway, Clean Code |
-| **DevOps & Cloud** | Docker, CI/CD (GitHub Actions), Linux Administration, Nginx |
-| **Development** | Python, Node.js, TypeScript, PostgreSQL |
-| **AI & Automation** | RAG Systems, Vector DBs, Selenium/Puppeteer, LLM Orchestration |
+| **Architecture** | Microservices, System Design, API Gateway, Clean Code, Design Patterns |
+| **DevOps & Cloud** | Docker, CI/CD (GitHub Actions), Linux Administration, Nginx, Cloudflare |
+| **Development** | Python, Node.js, TypeScript, PostgreSQL, Redis, GraphQL |
+| **AI & Automation** | RAG Systems, Vector DBs, Selenium/Puppeteer, LLM Orchestration, LangChain |
+| **Web3 & Security** | Blockchain Integration, Smart Contracts, CTF Challenges, Network Security |
 
 ---
 
 ### 🚀 Key Ecosystems & Products
 
-* **[KafkAI](https://github.com/okwn/kafkai)** — AI-powered academic assistant leveraging RAG.
-* **[DataCore Academy](https://datacore.academy)** — Hub for advanced AI project development.
-* **[OkFinex](https://okfinex.com)** — Infrastructure for Web3 & Crypto ventures.
+* **[KafkAI](https://github.com/datacoreacademy/Kafkai)** — AI-powered academic assistant leveraging RAG and LLM orchestration.
+* **[TR-MY](https://oguzkartal.tr)** — High-performance infrastructure for Web3 & Crypto ventures.
+* **[River Project](https://github.com/okwn/river)** — Automated content distribution and social media synchronization engine.
+* **[Cloud-Node Automation](https://github.com/okwn/cloud-automation)** — Scalable Linux server management and automated deployment scripts.
+* **[Vector-Search API](https://github.com/okwn/vector-api)** — Fast and efficient semantic search implementation using Pinecone and OpenAI.
+* **[Web3 Gateway](https://okfinex.com)** — Secure middleware for connecting legacy systems to decentralized networks.
+
+---
+
+### 🏢 Organizations & Teams
+
+* **[DataCore Academy](https://datacore.academy)** — Founder & Architect | Hub for advanced AI project development and research.
+* **[Kafkas University AI Lab]** — Contributor | Developing localized intelligent student assistant systems.
+* **[Open Source Contributors]** — Actively maintaining and contributing to automation and backend tooling.
 
 ---
 
 ### 🌐 Digital Presence
 
 `Website:` [oguzkartal.com](https://oguzkartal.com)  
-`LinkedIn:` [in/okwn](https://linkedin.com/in/okwn)  
-`Email:` [contact@oguzkartal.com](mailto:contact@oguzkartal.com)
+`LinkedIn:` [Oğuz Kartal](https://www.linkedin.com/in/o%C4%9Fuz-kartal-b42540362/)  
+`Email:` [hey@oguzkartal.com](mailto:hey@oguzkartal.com)
 
 ---
 
