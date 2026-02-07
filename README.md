@@ -2,8 +2,8 @@
 # 🏛️ Oğuz | Software Architect & DevOps Engineer
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=OGUZ_KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OGUZ_KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=okwn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okwn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
