@@ -38,8 +38,4 @@ Karmaşık problemleri, sürdürülebilir ve yüksek performanslı mimarilere d�
 <p align="right">
   <i>"Simplicity is the soul of efficiency."</i>
 </p>
----
-<p align="center">
-  <i>"Architecture is about the important stuff. Whatever that is."</i>
-</p>
-> *"Karmaşık sistemleri basitleştirmek bir sanat değil, mühendislik disiplinidir."*
+
