@@ -23,11 +23,7 @@ Focused on engineering sustainable and high-performance solutions for complex ch
 ### 🚀 Key Ecosystems & Products
 
 * **[KafkAI](https://github.com/datacoreacademy/Kafkai)** — AI-powered academic assistant leveraging RAG and LLM orchestration.
-* **[TR-MY](https://oguzkartal.tr)** — High-performance infrastructure for Web3 & Crypto ventures.
-* **[River Project](https://github.com/okwn/river)** — Automated content distribution and social media synchronization engine.
-* **[Cloud-Node Automation](https://github.com/okwn/cloud-automation)** — Scalable Linux server management and automated deployment scripts.
-* **[Vector-Search API](https://github.com/okwn/vector-api)** — Fast and efficient semantic search implementation using Pinecone and OpenAI.
-* **[Web3 Gateway](https://okfinex.com)** — Secure middleware for connecting legacy systems to decentralized networks.
+* **[Autamation-Website-Project](https://sitekocu.com)** — AI CMS Builder Websiter
 
 ---
 
