@@ -1,45 +1,52 @@
 ## Hi there 👋
-# 🏛️ Oğuz | Software Architect & DevOps Engineer
+# ⚡ Hi, I'm Oguz (@okwn)
+### **Software Architect | DevOps Enthusiast | AI Integrator**
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=okwn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okwn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=okwn&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okwn&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff" width="41%" />
 </p>
 
 ---
 
-### 🛠️ Core Expertise & Architecture
-Sistemlerin sadece kodlanması değil, **ölçeklenebilir, güvenli ve sürdürülebilir** bir mimari üzerine inşa edilmesiyle ilgileniyorum.
+## 🏗️ Architectural Focus
+Sistemleri sadece inşa etmiyorum; onları **ölçeklenebilir**, **otomatize** ve **akıllı** hale getiriyorum.
 
-* **Software Architecture:** Mikroservis mimarileri, Design Patterns (SOLID, Clean Architecture), Sistem Tasarımı ve API Gateway entegrasyonları.
-* **DevOps & Infrastructure:** CI/CD pipeline süreçleri (GitHub Actions), Dockerizasyon, Cloud AI altyapıları ve Linux sistem yönetimi.
-* **Automation:** Selenium/Puppeteer ile gelişmiş bot sistemleri ve karmaşık iş akışlarının otomatize edilmesi.
-
----
-
-### 🧠 Intelligence & Backend Stack
-AI araçlarını sadece kullanmakla kalmıyor, onları sistem mimarisinin bir parçası haline getiriyorum (RAG, Vector DB).
-
-- **Languages:** Python, TypeScript, JavaScript, SQL.
-- **Backend:** Node.js, Flask, Express, RESTful & GraphQL API Design.
-- **Databases:** PostgreSQL, MySQL, Redis, Pinecone (Vector DB).
-- **Tools:** Git, Docker, Linux (Ubuntu/Debian), Nginx.
+* **System Design:** Karmaşık backend mimarileri ve mikroservis yönetimi.
+* **DevOps Workflow:** CI/CD süreçleri, Dockerizasyon ve bulut altyapı optimizasyonu.
+* **AI Integration:** LLM ve RAG tabanlı kurumsal otomasyon çözümleri.
 
 ---
 
-### 🚀 Featured Systems & Projects
+## 🛠️ Tech Stack & Ecosystem
 
-* **[KafkAI](https://github.com/OGUZ_KULLANICI_ADIN/kafkai):** Üniversite ekosistemi için geliştirilmiş, RAG tabanlı yapay zeka asistanı.
-* **[DataCore Academy](https://datacore.academy):** Yapay zeka ve veri odaklı proje geliştirme platformu altyapısı.
-* **[OkFinex](https://okfinex.com):** Web3 ve Kripto entegrasyonlu modern web çözümleri.
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | Python, TypeScript, JavaScript, SQL |
+| **Backend** | Node.js, Flask, Express, RESTful APIs |
+| **Infrastructure** | Docker, Linux, Git, GitHub Actions |
+| **Database** | PostgreSQL, Redis, Pinecone (Vector DB) |
+| **Automation** | Selenium, Puppeteer, Cron Jobs |
 
 ---
 
-### 🌐 Connect & Presence
+## 🚀 Key Projects & Ventures
+
+* **[KafkAI](https://github.com/okwn/kafkai)** - Akademik süreçler için RAG tabanlı AI asistanı.
+* **[DataCore Academy](https://datacore.academy)** - Yapay zeka projeleri için geliştirilmiş kulüp altyapısı.
+* **[OkFinex](https://okfinex.com)** - Web3 ve kripto ekosistemi üzerine kurulu sistemler.
+
+---
+
+## 💬 Connect
 <p align="left">
-<a href="https://oguzkartal.com" target="blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-<a href="https://linkedin.com/in/OGUZ_LINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:MAIL_ADRESIN" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://oguzkartal.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=browser&logoColor=white" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:contact@oguzkartal.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
+---
+<p align="center">
+  <i>"Architecture is about the important stuff. Whatever that is."</i>
+</p>
 > *"Karmaşık sistemleri basitleştirmek bir sanat değil, mühendislik disiplinidir."*
