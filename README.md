@@ -37,5 +37,5 @@ Focused on engineering sustainable and high-performance solutions for complex ch
 ### 🌐 Digital Presence
 
 * **Website:** [oguzkartal.com](https://oguzkartal.com)
-* **LinkedIn:** [Oğuz Kartal](https://linkedin.com/in/oguzkartal)
+* **LinkedIn:** [Oğuz Kartal](https://linkedin.com/in/okwn)
 * **Email:** [hey@oguzkartal.com](mailto:hey@oguzkartal.com)
