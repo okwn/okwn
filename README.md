@@ -1,41 +1,58 @@
-# 🏛️ Oğuz Kartal | Software Architect
+# 🏛️ Oğuz Kartal
+**Software Architect | AI Orchestrator | DevOps Enthusiast**
 
-> Building scalable systems, automated workflows, and AI-driven solutions.
+> "Scaling complexity into simplicity. Building autonomous systems that don't just run, but evolve."
 
-Focused on engineering sustainable and high-performance solutions for complex challenges. With **DevOps at my core**, I follow a **"Write and Scale"** philosophy—ensuring every line of code is production-ready and infrastructure-aware.
+---
+
+### 🛤️ Engineering Roadmap
+*The evolution of a systems-first mindset.*
+
+`2024` — **The Web3 Era**
+&nbsp;&nbsp;&nbsp; ∘ Foundational work in Blockchain & DeFi infrastructure.
+&nbsp;&nbsp;&nbsp; ∘ Established **Para Panteri** & **OKFinex**.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `2025` — **Intelligence & Automation**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ∘ Deep dive into RAG systems & LLM Orchestration.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ∘ Launched **KafkAI** & **Sitekocu (AI CMS)**.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `2026` — **Scaling Architectures**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ∘ Expanding **DataCore Academy** to global markets.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ∘ Focusing on High-Availability Microservices & Autonomous Agents.
 
 ---
 
 ### 🛠️ Specialized Ecosystem
 
-| Area | Mastery Stack |
+| Area | Technologies |
 | :--- | :--- |
-| **Architecture** | Microservices, System Design, API Gateway, Clean Code, Design Patterns |
-| **DevOps & Cloud** | Docker, CI/CD (GitHub Actions), Linux Administration, Nginx, Cloudflare |
-| **Development** | Python, Node.js, TypeScript, PostgreSQL, Redis, GraphQL |
-| **AI & Automation** | RAG Systems, Vector DBs, LLM Orchestration (LangChain), Selenium/Puppeteer |
-| **Web3 & Security** | Blockchain Integration, Smart Contracts, CTF Challenges, Network Security |
+| **Languages** | `Python` • `Node.js` • `TypeScript` • `Go` • `Solidity` |
+| **DevOps & Cloud** | `Docker` • `CI/CD` • `Linux Admin` • `Nginx` • `Cloudflare` |
+| **AI & Automation** | `LangChain` • `Vector DBs` • `RAG` • `Selenium/Puppeteer` |
+| **Architecture** | `Microservices` • `System Design` • `PostgreSQL` • `Redis` |
 
 ---
 
-### 🚀 Key Projects & Products
+### 🚀 Personal Projects & Products
+*Strategic builds from my private lab.*
 
-* **KafkAI** — AI-powered academic assistant leveraging RAG and LLM orchestration for university ecosystems.
-* **Sitekocu (Automation Project)** — Intelligent CMS builder designed to automate the deployment and management of AI-driven websites.
-* **Cheri** — Advanced integration layer for autonomous agent orchestration.
+* **KafkAI:** AI-powered academic assistant leveraging RAG for university ecosystems.
+* **Sitekocu:** Intelligent CMS builder designed for automated AI website deployment.
+* **Cheri:** Advanced integration layer for autonomous agent orchestration.
 
 ---
 
-### 🏢 Organizations & Teams
+### 🏢 Organizations & Leadership
+*Communities and brands I lead and architect.*
 
-* **[DataCore Academy](https://datacore.academy)** — Founder & Architect | A hub for advanced AI research and project development.
-* **Para Panteri** — Web3 Community Lead | Focusing on blockchain ecosystems and decentralized finance (DeFi).
-* **OKFinex** — Finance & Web3 Hub | Dedicated to fintech innovation and secure asset management.
+* **[DataCore Academy](https://datacore.academy)** — Founder | Hub for advanced AI research.
+* **Para Panteri** — Web3 Community Lead | DeFi & Blockchain ecosystem analysis.
+* **OKFinex** — Fintech Initiative | Secure asset management & crypto solutions.
 
 ---
 
 ### 🌐 Digital Presence
 
-* **Website:** [oguzkartal.com](https://oguzkartal.com)
-* **LinkedIn:** [Oğuz Kartal](https://linkedin.com/in/okwn)
-* **Email:** [hey@oguzkartal.com](mailto:hey@oguzkartal.com)
+* **Portfolio:** [oguzkartal.com](https://oguzkartal.com)
+* **Professional:** [LinkedIn](https://linkedin.com/in/okwn)
+* **Direct:** [hey@oguzkartal.com](mailto:hey@oguzkartal.com)
+
+---
