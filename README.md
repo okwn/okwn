@@ -1,7 +1,10 @@
 # 🏛️ Oğuz Kartal
 **Software Architect | AI Orchestrator | DevOps Enthusiast**
 
-> "Scaling complexity into simplicity. Building autonomous systems that don't just run, but evolve."
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=okwn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Oğuz's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okwn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
 ---
 
@@ -23,38 +26,32 @@
 ---
 
 ### 🛠️ Specialized Ecosystem
+*The tools I use to build and scale.*
 
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | `Python` • `Node.js` • `TypeScript` • `Go` • `Solidity` |
-| **DevOps** | `Docker` • `CI/CD` • `Linux Admin` • `Nginx` • `Cloudflare` |
-| **AI / Automation** | `LangChain` • `Vector DBs` • `RAG` • `Selenium/Puppeteer` |
-| **Architecture** | `Microservices` • `System Design` • `PostgreSQL` • `Redis` |
+[![My Skills](https://skillicons.dev/icons?i=py,nodejs,ts,go,solidity,docker,githubactions,linux,nginx,cloudflare,postgres,redis,mongodb,graphql,git,aws,react,tailwind&theme=dark)](https://skillicons.dev)
 
 ---
 
-### 🚀 Personal Projects
-*Strategic builds from my private lab.*
+### 🚀 Personal Projects & Organizations
+*Strategic builds and leadership roles.*
 
-* **KafkAI:** AI-powered academic assistant leveraging RAG for university ecosystems.
-* **Sitekocu:** Intelligent CMS builder designed for automated AI website deployment.
-* **Cheri:** Advanced integration layer for autonomous agent orchestration.
-
----
-
-### 🏢 Organizations
-*Communities and brands I lead and architect.*
-
+* **[KafkAI](https://github.com/okwn/kafkai)** — AI-powered academic assistant leveraging RAG.
+* **[Sitekocu](https://github.com/okwn/sitekocu)** — Intelligent CMS builder for automated AI websites.
 * **[DataCore Academy](https://datacore.academy)** — Founder | Hub for advanced AI research.
-* **Para Panteri** — Web3 Community Lead | DeFi & Blockchain ecosystem analysis.
-* **OKFinex** — Fintech Initiative | Secure asset management & crypto solutions.
+* **[Para Panteri](https://github.com/parapanteri)** — Web3 Community Lead | DeFi analysis.
+
+---
+
+### 📈 Contribution Graph
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=okwn&theme=tokyonight&hide_border=true" width="100%" />
+</p>
 
 ---
 
 ### 🌐 Digital Presence
-
-* **Portfolio:** [oguzkartal.com](https://oguzkartal.com)
-* **Professional:** [LinkedIn](https://linkedin.com/in/oguzkartal)
-* **Direct:** [hey@oguzkartal.com](mailto:hey@oguzkartal.com)
-
----
+<p align="left">
+<a href="https://oguzkartal.com" target="blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+<a href="https://linkedin.com/in/oguzkartal" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:hey@oguzkartal.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
