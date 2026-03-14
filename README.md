@@ -1,10 +1,8 @@
-# 🏛️ Oğuz | Software Architect
-> **Building scalable systems, automated workflows, and AI-driven solutions.**
+# 🏛️ Oğuz Kartal | Software Architect
 
----
+> Building scalable systems, automated workflows, and AI-driven solutions.
 
-### ⚡ Technical Philosophy
-Focused on engineering sustainable and high-performance solutions for complex challenges. With DevOps at my core, I don't just 'write and forget'—I follow a 'write and scale' philosophy.
+Focused on engineering sustainable and high-performance solutions for complex challenges. With **DevOps at my core**, I follow a **"Write and Scale"** philosophy—ensuring every line of code is production-ready and infrastructure-aware.
 
 ---
 
@@ -15,35 +13,29 @@ Focused on engineering sustainable and high-performance solutions for complex ch
 | **Architecture** | Microservices, System Design, API Gateway, Clean Code, Design Patterns |
 | **DevOps & Cloud** | Docker, CI/CD (GitHub Actions), Linux Administration, Nginx, Cloudflare |
 | **Development** | Python, Node.js, TypeScript, PostgreSQL, Redis, GraphQL |
-| **AI & Automation** | RAG Systems, Vector DBs, Selenium/Puppeteer, LLM Orchestration, LangChain |
+| **AI & Automation** | RAG Systems, Vector DBs, LLM Orchestration (LangChain), Selenium/Puppeteer |
 | **Web3 & Security** | Blockchain Integration, Smart Contracts, CTF Challenges, Network Security |
 
 ---
 
-### 🚀 Key Ecosystems & Products
+### 🚀 Key Projects & Products
 
-* **[KafkAI](https://github.com/datacoreacademy/Kafkai)** — AI-powered academic assistant leveraging RAG and LLM orchestration.
-* **[Autamation-Website-Project](https://sitekocu.com)** — AI CMS Builder Websiter
+* **KafkAI** — AI-powered academic assistant leveraging RAG and LLM orchestration for university ecosystems.
+* **Sitekocu (Automation Project)** — Intelligent CMS builder designed to automate the deployment and management of AI-driven websites.
+* **Cheri** — Advanced integration layer for autonomous agent orchestration.
 
 ---
 
 ### 🏢 Organizations & Teams
 
-* **[DataCore Academy](https://datacore.academy)** — Founder & Architect | Hub for advanced AI project development and research.
-* **[Kafkas University AI Lab]** — Contributor | Developing localized intelligent student assistant systems.
-* **[Open Source Contributors]** — Actively maintaining and contributing to automation and backend tooling.
+* **[DataCore Academy](https://datacore.academy)** — Founder & Architect | A hub for advanced AI research and project development.
+* **Para Panteri** — Web3 Community Lead | Focusing on blockchain ecosystems and decentralized finance (DeFi).
+* **OKFinex** — Finance & Web3 Hub | Dedicated to fintech innovation and secure asset management.
 
 ---
 
 ### 🌐 Digital Presence
 
-`Website:` [oguzkartal.com](https://oguzkartal.com)  
-`LinkedIn:` [Oğuz Kartal](https://www.linkedin.com/in/okwn/)  
-`Email:` [hey@oguzkartal.com](mailto:hey@oguzkartal.com)
-
----
-
-<p align="right">
-  <i>"Simplicity is the soul of efficiency."</i>
-</p>
-
+* **Website:** [oguzkartal.com](https://oguzkartal.com)
+* **LinkedIn:** [Oğuz Kartal](https://linkedin.com/in/oguzkartal)
+* **Email:** [hey@oguzkartal.com](mailto:hey@oguzkartal.com)
