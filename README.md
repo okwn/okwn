@@ -1,4 +1,4 @@
-# 🏛️ OKWN | Oğuz Kartal
+# 🏛️ Oğuz Kartal
 **Software Architect | AI Orchestrator | DevOps Enthusiast**
 
 > "Scaling complexity into simplicity. Building autonomous systems that don't just run, but evolve."
@@ -8,15 +8,17 @@
 ### 🛤️ Engineering Roadmap
 *The evolution of a systems-first mindset.*
 
-`2024` — **The Web3 Era**
-&nbsp;&nbsp;&nbsp; ∘ Foundational work in Blockchain & DeFi infrastructure.
-&nbsp;&nbsp;&nbsp; ∘ Established **Para Panteri** & **OKFinex**.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `2025` — **Intelligence & Automation**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ∘ Deep dive into RAG systems & LLM Orchestration.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ∘ Launched **KafkAI** & **Sitekocu (AI CMS)**.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `2026` — **Scaling Architectures**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ∘ Expanding **DataCore Academy** to global markets.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ∘ Focusing on High-Availability Microservices & Autonomous Agents.
+* **2024 | The Web3 Era**
+    * ∘ Foundational Blockchain & DeFi infrastructure.
+    * ∘ Established **Para Panteri** & **OKFinex**.
+    * &nbsp;
+        * **2025 | Intelligence & Automation**
+            * ∘ Deep dive into RAG systems & LLM Orchestration.
+            * ∘ Launched **KafkAI** & **Sitekocu (AI CMS)**.
+            * &nbsp;
+                * **2026 | Scaling Architectures**
+                    * ∘ Expanding **DataCore Academy** to global markets.
+                    * ∘ High-Availability & Autonomous Agents.
 
 ---
 
@@ -25,13 +27,13 @@
 | Area | Technologies |
 | :--- | :--- |
 | **Languages** | `Python` • `Node.js` • `TypeScript` • `Go` • `Solidity` |
-| **DevOps & Cloud** | `Docker` • `CI/CD` • `Linux Admin` • `Nginx` • `Cloudflare` |
-| **AI & Automation** | `LangChain` • `Vector DBs` • `RAG` • `Selenium/Puppeteer` |
+| **DevOps** | `Docker` • `CI/CD` • `Linux Admin` • `Nginx` • `Cloudflare` |
+| **AI / Automation** | `LangChain` • `Vector DBs` • `RAG` • `Selenium/Puppeteer` |
 | **Architecture** | `Microservices` • `System Design` • `PostgreSQL` • `Redis` |
 
 ---
 
-### 🚀 Personal Projects & Products
+### 🚀 Personal Projects
 *Strategic builds from my private lab.*
 
 * **KafkAI:** AI-powered academic assistant leveraging RAG for university ecosystems.
@@ -40,7 +42,7 @@
 
 ---
 
-### 🏢 Organizations & Leadership
+### 🏢 Organizations
 *Communities and brands I lead and architect.*
 
 * **[DataCore Academy](https://datacore.academy)** — Founder | Hub for advanced AI research.
@@ -52,7 +54,7 @@
 ### 🌐 Digital Presence
 
 * **Portfolio:** [oguzkartal.com](https://oguzkartal.com)
-* **Professional:** [LinkedIn](https://linkedin.com/in/okwn)
+* **Professional:** [LinkedIn](https://linkedin.com/in/oguzkartal)
 * **Direct:** [hey@oguzkartal.com](mailto:hey@oguzkartal.com)
 
 ---
