@@ -1,4 +1,4 @@
-# 🏛️ Oğuz Kartal
+# 🏛️ OKWN
 **Software Architect | AI Orchestrator | DevOps Enthusiast**
 
 <p align="left">
@@ -52,6 +52,5 @@
 ### 🌐 Digital Presence
 <p align="left">
 <a href="https://oguzkartal.com" target="blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-<a href="https://linkedin.com/in/oguzkartal" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:hey@oguzkartal.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
