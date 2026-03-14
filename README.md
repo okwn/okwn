@@ -1,4 +1,4 @@
-# 🏛️ Oğuz Kartal
+# 🏛️ OKWN | Oğuz Kartal
 **Software Architect | AI Orchestrator | DevOps Enthusiast**
 
 > "Scaling complexity into simplicity. Building autonomous systems that don't just run, but evolve."
