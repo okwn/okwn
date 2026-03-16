@@ -64,25 +64,40 @@ Building modern AI products, scalable automation pipelines, and developer-first 
 
 ## 🚀 Selected Projects
 
-### **KafkAI**
-AI-powered academic assistant focused on retrieval workflows and structured knowledge access.  
-🔗 https://github.com/okwn/kafkai
-
-### **Sitekocu**
-An intelligent CMS builder for automated and AI-supported website generation.  
-🔗 https://github.com/okwn/sitekocu
-
-### **DataCore Academy**
-A growing initiative around advanced AI research, systems thinking, and global knowledge distribution.  
-🔗 https://datacore.academy
-
-### **Para Panteri**
-Web3-focused community and product direction around DeFi analysis and ecosystem research.  
-🔗 https://github.com/parapanteri
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍒 Cheri CLI</h3>
+      <p>
+        A collaborative development CLI focused on workspace flows, file sync experience,
+        and developer-first automation.
+      </p>
+      <p>
+        <a href="https://github.com/Cheri-app/cheri-cli">View Repository</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 Shelby MCP</h3>
+      <p>
+        An MCP-oriented integration project built around practical AI connectivity,
+        structured tooling, and extensible agent workflows.
+      </p>
+      <p>
+        <a href="https://github.com/okwn/shelby-mcp">View Repository</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🧭 Engineering Direction
+## 📊 Visual Snapshot
 
-```text
-Web3 Foundations → AI Systems → Autonomous Infrastructure
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okwn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=okwn&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=okwn&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph" />
+</p>
