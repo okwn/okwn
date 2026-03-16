@@ -19,7 +19,7 @@ Building modern AI products, scalable automation pipelines, and developer-first 
   <a href="https://okwn.cc">
     <img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="mailto:hey@oguzkartal.com">
+  <a href="mailto:root@okwn.cc">
     <img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
