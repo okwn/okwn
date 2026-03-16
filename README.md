@@ -7,9 +7,6 @@
 Building modern AI products, scalable automation pipelines, and developer-first infrastructure.
 
 <p align="center">
-  <a href="https://oguzkartal.com">
-    <img src="https://img.shields.io/badge/Portfolio-0B0F19?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
   <a href="https://github.com/okwn">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
