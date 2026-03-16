@@ -16,6 +16,9 @@ Building modern AI products, scalable automation pipelines, and developer-first 
   <a href="https://discord.com/users/ok_wn">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+  <a href="https://t.me/ucgen">
+    <img src="https://img.shields.io/badge/Telegram%20DM's-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
   <a href="https://okwn.cc">
     <img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
@@ -23,6 +26,7 @@ Building modern AI products, scalable automation pipelines, and developer-first 
     <img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 </div>
 
 ---
