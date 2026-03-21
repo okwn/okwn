@@ -55,11 +55,13 @@
 
 ## Worker Orgs
 
+> Small orgs. Sharp tools. Loud execution.
+
 <table>
   <tr>
     <td width="33%" valign="top">
       <h3>🍒 Cheri App</h3>
-      <p>Workspace sync, cloud coordination, and collaborative tooling.</p>
+      <p>Collaborative workspace infrastructure for sync, cloud coordination, and team flows.</p>
       <p>
         <a href="https://github.com/Cheri-app">Organization</a><br/>
         <a href="https://github.com/Cheri-app/cheri-cli">cheri-cli</a><br/>
@@ -69,18 +71,28 @@
     </td>
     <td width="33%" valign="top">
       <h3>⚙️ Komu Agent</h3>
-      <p>AI-powered SSH operations and practical infra workflows.</p>
+      <p>AI-native SSH operations stack for safer infra actions and operator workflows.</p>
       <p>
         <a href="https://github.com/Komu-agent">Organization</a><br/>
-        <a href="https://github.com/Komu-agent/komu-cli">komu-cli</a>
+        <a href="https://github.com/Komu-agent/komu-cli">komu-cli</a><br/>
+        <a href="https://github.com/Komu-agent/komu-web">komu-web</a><br/>
+        <a href="https://github.com/Komu-agent/komu-windows">komu-windows</a><br/>
+        <a href="https://github.com/Komu-agent/komu-linux">komu-linux</a><br/>
+        <a href="https://github.com/Komu-agent/komu-macos">komu-macos</a><br/>
+        <a href="https://github.com/Komu-agent/Komu-app">Komu-app</a>
       </p>
     </td>
     <td width="33%" valign="top">
       <h3>🧭 TaskHelm</h3>
-      <p>Engine-first AI orchestration for routing work to the right model.</p>
+      <p>Engine-first multi-model execution platform for routing work to the right model surface.</p>
       <p>
         <a href="https://github.com/TaskHelm">Organization</a><br/>
-        <a href="https://github.com/TaskHelm/main-release">main-release</a>
+        <a href="https://github.com/TaskHelm/main-release">main-release</a><br/>
+        <a href="https://github.com/TaskHelm/taskhelm-cli">taskhelm-cli</a><br/>
+        <a href="https://github.com/TaskHelm/taskhelm-app">taskhelm-app</a><br/>
+        <a href="https://github.com/TaskHelm/taskhelm-engine">taskhelm-engine</a><br/>
+        <a href="https://github.com/TaskHelm/taskhelm-extensions">taskhelm-extensions</a><br/>
+        <a href="https://github.com/TaskHelm/taskhelm-web">taskhelm-web</a>
       </p>
     </td>
   </tr>
@@ -111,7 +123,7 @@
   <tr>
     <td width="33%" valign="top">
       <h3>📊 repo-analysis-q1</h3>
-      <p>Repository health scoring and deterministic analysis for engineering and platform teams.</p>
+      <p>Deterministic repository health scoring for engineering, platform, and OSS teams.</p>
       <p><a href="https://github.com/okwn/repo-analysis-q1">Repository</a></p>
     </td>
     <td width="33%" valign="top">
@@ -121,7 +133,7 @@
     </td>
     <td width="33%" valign="top">
       <h3>🧩 Shelby MCP</h3>
-      <p>MCP integration work for practical AI tooling and agent-driven workflows.</p>
+      <p>Local-first MCP server for sandboxed workflows and practical AI tooling.</p>
       <p><a href="https://github.com/okwn/shelby-mcp">Repository</a></p>
     </td>
   </tr>
