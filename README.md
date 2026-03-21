@@ -53,7 +53,7 @@
 
 ---
 
-## Worker Orgs
+## Labs
 
 > Small orgs. Sharp tools. Loud execution.
 
