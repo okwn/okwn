@@ -29,7 +29,7 @@
 
 ---
 
-## Upper
+## Featured
 
 <table>
   <tr>
