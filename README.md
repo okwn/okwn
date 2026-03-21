@@ -67,6 +67,7 @@
         <a href="https://github.com/Cheri-app/cheri-cli">cheri-cli</a><br/>
         <a href="https://github.com/Cheri-app/cheri-web">cheri-web</a><br/>
         <a href="https://github.com/Cheri-app/cheri-cloud">cheri-cloud</a>
+        <a href="https://github.com/Cheri-app/cheri-cloud">cheri-app</a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -75,11 +76,8 @@
       <p>
         <a href="https://github.com/Komu-agent">Organization</a><br/>
         <a href="https://github.com/Komu-agent/komu-cli">komu-cli</a><br/>
-        <a href="https://github.com/Komu-agent/komu-web">komu-web</a><br/>
-        <a href="https://github.com/Komu-agent/komu-windows">komu-windows</a><br/>
-        <a href="https://github.com/Komu-agent/komu-linux">komu-linux</a><br/>
-        <a href="https://github.com/Komu-agent/komu-macos">komu-macos</a><br/>
         <a href="https://github.com/Komu-agent/Komu-app">Komu-app</a>
+        <a href="https://github.com/Komu-agent/komu-web">komu-web</a><br/>
       </p>
     </td>
     <td width="33%" valign="top">
