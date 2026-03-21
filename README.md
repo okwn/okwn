@@ -29,24 +29,100 @@
 
 ---
 
+## Upper
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>⚡ Tempov</h3>
+      <p>Minimal premium donation platform built on Tempo for creator pages and embeddable stablecoin donations.</p>
+      <p><a href="https://github.com/okwn/tempov">Repository</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🕸️ Kovi Engine</h3>
+      <p>Selector-first web data extraction infrastructure with durable workflows and downstream-ready delivery.</p>
+      <p><a href="https://github.com/okwn/kovi-engine">Repository</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🛡️ MCPO2</h3>
+      <p>Policy-aware MCP routing fabric for secure remote module access and capability-based orchestration.</p>
+      <p><a href="https://github.com/okwn/mcpO2">Repository</a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Worker Orgs
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🍒 Cheri App</h3>
+      <p>Workspace sync, cloud coordination, and collaborative tooling.</p>
+      <p>
+        <a href="https://github.com/Cheri-app">Organization</a><br/>
+        <a href="https://github.com/Cheri-app/cheri-cli">cheri-cli</a><br/>
+        <a href="https://github.com/Cheri-app/cheri-web">cheri-web</a><br/>
+        <a href="https://github.com/Cheri-app/cheri-cloud">cheri-cloud</a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚙️ Komu Agent</h3>
+      <p>AI-powered SSH operations and practical infra workflows.</p>
+      <p>
+        <a href="https://github.com/Komu-agent">Organization</a><br/>
+        <a href="https://github.com/Komu-agent/komu-cli">komu-cli</a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧭 TaskHelm</h3>
+      <p>Engine-first AI orchestration for routing work to the right model.</p>
+      <p>
+        <a href="https://github.com/TaskHelm">Organization</a><br/>
+        <a href="https://github.com/TaskHelm/main-release">main-release</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Selected
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🍒 Cheri CLI</h3>
-      <p>Collaborative development CLI for workspace flows, sync, and automation.</p>
-      <p><a href="https://github.com/Cheri-app/cheri-cli">Repository</a></p>
+      <h3>🏗️ BaseJump</h3>
+      <p>AI-ready recipes, templates, examples, and tools for building faster on Base.</p>
+      <p><a href="https://github.com/okwn/BaseJump">Repository</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🔐 Shard</h3>
+      <p>Secure secrets vault with modular encryption, SDKs, RBAC, and audit-focused secret management.</p>
+      <p><a href="https://github.com/okwn/shard">Repository</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧠 GitHub Engine</h3>
+      <p>Repository intelligence engine for scanning projects, improving docs, and surfacing quality signals.</p>
+      <p><a href="https://github.com/okwn/github-engine">Repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>📊 repo-analysis-q1</h3>
+      <p>Repository health scoring and deterministic analysis for engineering and platform teams.</p>
+      <p><a href="https://github.com/okwn/repo-analysis-q1">Repository</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🏛️ Canton MCP</h3>
+      <p>AI-native Canton builder repo for coding agents, app recipes, architecture maps, and future MCP tooling.</p>
+      <p><a href="https://github.com/okwn/canton-mcp">Repository</a></p>
     </td>
     <td width="33%" valign="top">
       <h3>🧩 Shelby MCP</h3>
       <p>MCP integration work for practical AI tooling and agent-driven workflows.</p>
       <p><a href="https://github.com/okwn/shelby-mcp">Repository</a></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>⚙️ KOMU CLI</h3>
-      <p>SSH + AI focused CLI built to simplify ops, servers, and developer workflows.</p>
-      <p><a href="https://github.com/Komu-agent/komu-cli">Repository</a></p>
     </td>
   </tr>
 </table>
