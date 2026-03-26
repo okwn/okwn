@@ -53,9 +53,11 @@
 
 ---
 
-## Labs
+---
 
-> Small orgs. Sharp tools. Loud execution.
+## Organizations
+
+> Products, labs, and operator-focused build spaces.
 
 <table>
   <tr>
@@ -64,10 +66,10 @@
       <p>Collaborative workspace infrastructure for sync, cloud coordination, and team flows.</p>
       <p>
         <a href="https://github.com/Cheri-app">Organization</a><br/>
-        <a href="https://github.com/Cheri-app/cheri-cli">cheri-cli</a><br/>
-        <a href="https://github.com/Cheri-app/cheri-web">cheri-web</a><br/>
-        <a href="https://github.com/Cheri-app/cheri-cloud">cheri-cloud</a>
-        <a href="https://github.com/Cheri-app/cheri-cloud">cheri-app</a>
+        <a href="https://github.com/Cheri-app/cheri-cli">cheri-cli</a> ·
+        <a href="https://github.com/Cheri-app/cheri-web">cheri-web</a> ·
+        <a href="https://github.com/Cheri-app/cheri-cloud">cheri-cloud</a> ·
+        <a href="https://github.com/Cheri-app/cheri-app">cheri-app</a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -75,9 +77,9 @@
       <p>AI-native SSH operations stack for safer infra actions and operator workflows.</p>
       <p>
         <a href="https://github.com/Komu-agent">Organization</a><br/>
-        <a href="https://github.com/Komu-agent/komu-cli">komu-cli</a><br/>
-        <a href="https://github.com/Komu-agent/Komu-app">Komu-app</a>
-        <a href="https://github.com/Komu-agent/komu-web">komu-web</a><br/>
+        <a href="https://github.com/Komu-agent/komu-cli">komu-cli</a> ·
+        <a href="https://github.com/Komu-agent/Komu-app">Komu-app</a> ·
+        <a href="https://github.com/Komu-agent/komu-web">komu-web</a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -85,11 +87,11 @@
       <p>Engine-first multi-model execution platform for routing work to the right model surface.</p>
       <p>
         <a href="https://github.com/TaskHelm">Organization</a><br/>
-        <a href="https://github.com/TaskHelm/main-release">main-release</a><br/>
-        <a href="https://github.com/TaskHelm/taskhelm-cli">taskhelm-cli</a><br/>
-        <a href="https://github.com/TaskHelm/taskhelm-app">taskhelm-app</a><br/>
-        <a href="https://github.com/TaskHelm/taskhelm-engine">taskhelm-engine</a><br/>
-        <a href="https://github.com/TaskHelm/taskhelm-extensions">taskhelm-extensions</a><br/>
+        <a href="https://github.com/TaskHelm/main-release">main-release</a> ·
+        <a href="https://github.com/TaskHelm/taskhelm-cli">taskhelm-cli</a> ·
+        <a href="https://github.com/TaskHelm/taskhelm-app">taskhelm-app</a> ·
+        <a href="https://github.com/TaskHelm/taskhelm-engine">taskhelm-engine</a> ·
+        <a href="https://github.com/TaskHelm/taskhelm-extensions">taskhelm-extensions</a> ·
         <a href="https://github.com/TaskHelm/taskhelm-web">taskhelm-web</a>
       </p>
     </td>
@@ -98,41 +100,30 @@
 
 ---
 
-## Selected
+## Selected Projects
+
+> Core builds across infra, AI tooling, security, and protocol systems.
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>🏗️ BaseJump</h3>
-      <p>AI-ready recipes, templates, examples, and tools for building faster on Base.</p>
-      <p><a href="https://github.com/okwn/BaseJump">Repository</a></p>
+    <td width="50%" valign="top">
+      <h3>Infrastructure & Systems</h3>
+      <ul>
+        <li><a href="https://github.com/okwn/kovi-engine"><strong>Kovi Engine</strong></a> — selector-first web data extraction infrastructure</li>
+        <li><a href="https://github.com/okwn/mcpO2"><strong>MCPO2</strong></a> — policy-aware MCP routing fabric</li>
+        <li><a href="https://github.com/okwn/shard"><strong>Shard</strong></a> — secure secrets vault with RBAC and audit-focused secret management</li>
+        <li><a href="https://github.com/okwn/shelby-mcp"><strong>Shelby MCP</strong></a> — local-first MCP server for sandboxed workflows and practical AI tooling</li>
+      </ul>
     </td>
-    <td width="33%" valign="top">
-      <h3>🔐 Shard</h3>
-      <p>Secure secrets vault with modular encryption, SDKs, RBAC, and audit-focused secret management.</p>
-      <p><a href="https://github.com/okwn/shard">Repository</a></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🧠 GitHub Engine</h3>
-      <p>Repository intelligence engine for scanning projects, improving docs, and surfacing quality signals.</p>
-      <p><a href="https://github.com/okwn/github-engine">Repository</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>📊 repo-analysis-q1</h3>
-      <p>Deterministic repository health scoring for engineering, platform, and OSS teams.</p>
-      <p><a href="https://github.com/okwn/repo-analysis-q1">Repository</a></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🏛️ Canton MCP</h3>
-      <p>AI-native Canton builder repo for coding agents, app recipes, architecture maps, and future MCP tooling.</p>
-      <p><a href="https://github.com/okwn/canton-mcp">Repository</a></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🧩 Shelby MCP</h3>
-      <p>Local-first MCP server for sandboxed workflows and practical AI tooling.</p>
-      <p><a href="https://github.com/okwn/shelby-mcp">Repository</a></p>
+    <td width="50%" valign="top">
+      <h3>AI Tools & Protocol Builds</h3>
+      <ul>
+        <li><a href="https://github.com/okwn/tempov"><strong>Tempov</strong></a> — minimal premium donation platform built on Tempo</li>
+        <li><a href="https://github.com/okwn/github-engine"><strong>GitHub Engine</strong></a> — repository intelligence engine for quality signals and docs improvement</li>
+        <li><a href="https://github.com/okwn/repo-analysis-q1"><strong>repo-analysis-q1</strong></a> — deterministic repository health scoring</li>
+        <li><a href="https://github.com/okwn/canton-mcp"><strong>Canton MCP</strong></a> — AI-native Canton builder repo and architecture base</li>
+        <li><a href="https://github.com/okwn/BaseJump"><strong>BaseJump</strong></a> — AI-ready recipes, templates, examples, and tools for building on Base</li>
+      </ul>
     </td>
   </tr>
 </table>
