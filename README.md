@@ -1,43 +1,96 @@
-```md
+<div align="center">
+
+# OKWN
+
+**Building AI tools, CLI products, and developer infrastructure.**
+
+<p align="center">
+  <a href="https://github.com/okwn">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://x.com/kartalbuilds">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/ok_wn">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://t.me/ucgen">
+    <img src="https://img.shields.io/badge/Telegram%20DM's-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://okwn.cc">
+    <img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:root@okwn.cc">
+    <img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
 ---
 
-## Organizations
+## Featured
 
-> Products, labs, and operator-focused build spaces.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>⚡ Tempov</h3>
+      <p>Minimal premium donation platform built on Tempo for creator pages and embeddable stablecoin donations.</p>
+      <p><a href="https://github.com/okwn/tempov">Repository</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🕸️ Kovi Engine</h3>
+      <p>Selector-first web data extraction infrastructure with durable workflows and downstream-ready delivery.</p>
+      <p><a href="https://github.com/okwn/kovi-engine">Repository</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🛡️ MCPO2</h3>
+      <p>Policy-aware MCP routing fabric for secure remote module access and capability-based orchestration.</p>
+      <p><a href="https://github.com/okwn/mcpO2">Repository</a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Labs
+
+> Small orgs. Sharp tools. Loud execution.
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <h3>🍒 Cheri App</h3>
-      <p>Collaborative workspace infrastructure for sync, cloud coordination, and agent-assisted team flows.</p>
+      <p>Collaborative workspace infrastructure for sync, cloud coordination, and team flows.</p>
       <p>
-        <a href="https://github.com/Cheri-app">Org</a> ·
-        <a href="https://github.com/Cheri-app/cheri-cli">CLI</a> ·
-        <a href="https://github.com/Cheri-app/cheri-web">Web</a> ·
-        <a href="https://github.com/Cheri-app/cheri-cloud">Cloud</a> ·
-        <a href="https://github.com/Cheri-app/cheri-app">App</a>
+        <a href="https://github.com/Cheri-app">Organization</a><br/>
+        <a href="https://github.com/Cheri-app/cheri-cli">cheri-cli</a><br/>
+        <a href="https://github.com/Cheri-app/cheri-web">cheri-web</a><br/>
+        <a href="https://github.com/Cheri-app/cheri-cloud">cheri-cloud</a>
+        <a href="https://github.com/Cheri-app/cheri-cloud">cheri-app</a>
       </p>
     </td>
     <td width="33%" valign="top">
       <h3>⚙️ Komu Agent</h3>
-      <p>AI-native SSH operations stack for safer infrastructure actions and practical operator workflows.</p>
+      <p>AI-native SSH operations stack for safer infra actions and operator workflows.</p>
       <p>
-        <a href="https://github.com/Komu-agent">Org</a> ·
-        <a href="https://github.com/Komu-agent/komu-cli">CLI</a> ·
-        <a href="https://github.com/Komu-agent/Komu-app">App</a> ·
-        <a href="https://github.com/Komu-agent/komu-web">Web</a>
+        <a href="https://github.com/Komu-agent">Organization</a><br/>
+        <a href="https://github.com/Komu-agent/komu-cli">komu-cli</a><br/>
+        <a href="https://github.com/Komu-agent/Komu-app">Komu-app</a>
+        <a href="https://github.com/Komu-agent/komu-web">komu-web</a><br/>
       </p>
     </td>
     <td width="33%" valign="top">
       <h3>🧭 TaskHelm</h3>
       <p>Engine-first multi-model execution platform for routing work to the right model surface.</p>
       <p>
-        <a href="https://github.com/TaskHelm">Org</a> ·
-        <a href="https://github.com/TaskHelm/main-release">Main</a> ·
-        <a href="https://github.com/TaskHelm/taskhelm-cli">CLI</a> ·
-        <a href="https://github.com/TaskHelm/taskhelm-app">App</a> ·
-        <a href="https://github.com/TaskHelm/taskhelm-engine">Engine</a> ·
-        <a href="https://github.com/TaskHelm/taskhelm-web">Web</a>
+        <a href="https://github.com/TaskHelm">Organization</a><br/>
+        <a href="https://github.com/TaskHelm/main-release">main-release</a><br/>
+        <a href="https://github.com/TaskHelm/taskhelm-cli">taskhelm-cli</a><br/>
+        <a href="https://github.com/TaskHelm/taskhelm-app">taskhelm-app</a><br/>
+        <a href="https://github.com/TaskHelm/taskhelm-engine">taskhelm-engine</a><br/>
+        <a href="https://github.com/TaskHelm/taskhelm-extensions">taskhelm-extensions</a><br/>
+        <a href="https://github.com/TaskHelm/taskhelm-web">taskhelm-web</a>
       </p>
     </td>
   </tr>
@@ -45,30 +98,57 @@
 
 ---
 
-## Selected Projects
-
-> Core builds across infra, AI tooling, security, and protocol-facing systems.
+## Selected
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Infrastructure & Systems</h3>
-      <ul>
-        <li><a href="https://github.com/okwn/kovi-engine"><strong>Kovi Engine</strong></a> — selector-first web data extraction infrastructure</li>
-        <li><a href="https://github.com/okwn/mcpO2"><strong>MCPO2</strong></a> — policy-aware MCP routing fabric</li>
-        <li><a href="https://github.com/okwn/shard"><strong>Shard</strong></a> — secure secrets vault with RBAC and audit-first design</li>
-        <li><a href="https://github.com/okwn/shelby-mcp"><strong>Shelby MCP</strong></a> — local-first MCP server for practical agent workflows</li>
-      </ul>
+    <td width="33%" valign="top">
+      <h3>🏗️ BaseJump</h3>
+      <p>AI-ready recipes, templates, examples, and tools for building faster on Base.</p>
+      <p><a href="https://github.com/okwn/BaseJump">Repository</a></p>
     </td>
-    <td width="50%" valign="top">
-      <h3>AI Tools & Protocol Builds</h3>
-      <ul>
-        <li><a href="https://github.com/okwn/tempov"><strong>Tempov</strong></a> — premium creator donation rails on Tempo</li>
-        <li><a href="https://github.com/okwn/github-engine"><strong>GitHub Engine</strong></a> — repository intelligence and quality signal tooling</li>
-        <li><a href="https://github.com/okwn/repo-analysis-q1"><strong>repo-analysis-q1</strong></a> — deterministic repository health scoring</li>
-        <li><a href="https://github.com/okwn/canton-mcp"><strong>Canton MCP</strong></a> — AI-native Canton builder repo and architecture base</li>
-        <li><a href="https://github.com/okwn/BaseJump"><strong>BaseJump</strong></a> — AI-ready recipes and templates for building on Base</li>
-      </ul>
+    <td width="33%" valign="top">
+      <h3>🔐 Shard</h3>
+      <p>Secure secrets vault with modular encryption, SDKs, RBAC, and audit-focused secret management.</p>
+      <p><a href="https://github.com/okwn/shard">Repository</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧠 GitHub Engine</h3>
+      <p>Repository intelligence engine for scanning projects, improving docs, and surfacing quality signals.</p>
+      <p><a href="https://github.com/okwn/github-engine">Repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>📊 repo-analysis-q1</h3>
+      <p>Deterministic repository health scoring for engineering, platform, and OSS teams.</p>
+      <p><a href="https://github.com/okwn/repo-analysis-q1">Repository</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🏛️ Canton MCP</h3>
+      <p>AI-native Canton builder repo for coding agents, app recipes, architecture maps, and future MCP tooling.</p>
+      <p><a href="https://github.com/okwn/canton-mcp">Repository</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧩 Shelby MCP</h3>
+      <p>Local-first MCP server for sandboxed workflows and practical AI tooling.</p>
+      <p><a href="https://github.com/okwn/shelby-mcp">Repository</a></p>
     </td>
   </tr>
 </table>
+
+---
+
+## Focus
+
+- AI-native developer tools  
+- CLI products  
+- Automation systems  
+- Infrastructure workflows  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okwn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=okwn&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+</p>
