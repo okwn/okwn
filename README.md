@@ -29,41 +29,50 @@
 
 ---
 
-## Featured
+## Core Builds
+
+> Active, high-conviction products and systems I’m building across AI, infra, and operator tooling.
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>⚡ Tempov</h3>
-      <p>Minimal premium donation platform built on Tempo for creator pages and embeddable stablecoin donations.</p>
-      <p><a href="https://github.com/okwn/tempov">Repository</a></p>
+      <h3>🍒 Cheri</h3>
+      <p>Collaborative workspace infrastructure for sync, cloud coordination, task execution, and team-based AI workflows.</p>
+      <p><strong>Focus:</strong> workspace orchestration, cloud runtime, team flows</p>
     </td>
     <td width="33%" valign="top">
-      <h3>🕸️ Kovi Engine</h3>
-      <p>Selector-first web data extraction infrastructure with durable workflows and downstream-ready delivery.</p>
-      <p><a href="https://github.com/okwn/kovi-engine">Repository</a></p>
+      <h3>⚙️ Komu</h3>
+      <p>AI-native SSH operations stack for safer infrastructure actions, guided terminal workflows, and operator productivity.</p>
+      <p><strong>Focus:</strong> infra ops, CLI UX, secure automation</p>
     </td>
     <td width="33%" valign="top">
-      <h3>🛡️ MCPO2</h3>
-      <p>Policy-aware MCP routing fabric for secure remote module access and capability-based orchestration.</p>
-      <p><a href="https://github.com/okwn/mcpO2">Repository</a></p>
+      <h3>🧭 TaskHelm</h3>
+      <p>Engine-first multi-model execution platform for routing work, tools, and workflows to the right model surface.</p>
+      <p><strong>Focus:</strong> orchestration, model routing, execution systems</p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🛰️ Altos Agent</h3>
+      <p>Agent-oriented build space focused on practical automation, execution pipelines, and applied AI systems.</p>
     </td>
   </tr>
 </table>
 
 ---
 
----
-
 ## Organizations
 
-> Products, labs, and operator-focused build spaces.
+> Product labs and operator-focused build spaces.
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>🍒 Cheri App</h3>
-      <p>Collaborative workspace infrastructure for sync, cloud coordination, and team flows.</p>
+      <p>Workspace and cloud coordination ecosystem.</p>
       <p>
         <a href="https://github.com/Cheri-app">Organization</a><br/>
         <a href="https://github.com/Cheri-app/cheri-cli">cheri-cli</a> ·
@@ -72,9 +81,9 @@
         <a href="https://github.com/Cheri-app/cheri-app">cheri-app</a>
       </p>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>⚙️ Komu Agent</h3>
-      <p>AI-native SSH operations stack for safer infra actions and operator workflows.</p>
+      <p>AI-native infrastructure and SSH operations products.</p>
       <p>
         <a href="https://github.com/Komu-agent">Organization</a><br/>
         <a href="https://github.com/Komu-agent/komu-cli">komu-cli</a> ·
@@ -82,9 +91,9 @@
         <a href="https://github.com/Komu-agent/komu-web">komu-web</a>
       </p>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>🧭 TaskHelm</h3>
-      <p>Engine-first multi-model execution platform for routing work to the right model surface.</p>
+      <p>Execution infrastructure for multi-model work routing.</p>
       <p>
         <a href="https://github.com/TaskHelm">Organization</a><br/>
         <a href="https://github.com/TaskHelm/main-release">main-release</a> ·
@@ -95,14 +104,22 @@
         <a href="https://github.com/TaskHelm/taskhelm-web">taskhelm-web</a>
       </p>
     </td>
+    <td width="25%" valign="top">
+      <h3>🛰️ Altos Agent</h3>
+      <p>Applied agent systems and automation-focused product space.</p>
+      <p>
+        <!-- Buraya gerçek organization / repo linklerini ekle -->
+        <strong>Organization:</strong> Altos Agent
+      </p>
+    </td>
   </tr>
 </table>
 
 ---
 
-## Selected Projects
+## Flagship Repositories
 
-> Core builds across infra, AI tooling, security, and protocol systems.
+> Selected repositories that represent my strongest work across infra, AI tooling, security, and protocol systems.
 
 <table>
   <tr>
@@ -130,12 +147,41 @@
 
 ---
 
-## Focus
+## Ventures
 
-- AI-native developer tools  
-- CLI products  
-- Automation systems  
-- Infrastructure workflows  
+> Product initiatives and commercial experiments.
+
+<table>
+  <tr>
+    <td width="25%" valign="top">
+      <h3>🏗️ Sitekocu</h3>
+      <p>Productized web and digital build initiative.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>💱 Exchangelord</h3>
+      <p>Exchange and market-oriented product initiative.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>🏢 Sirketkur</h3>
+      <p>Company setup and operational enablement initiative.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>💸 Parapanteri</h3>
+      <p>Finance-oriented product and growth initiative.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Focus Areas
+
+- AI-native developer tools
+- CLI products
+- Automation systems
+- Infrastructure workflows
+- Secure operator experiences
+- Multi-model execution systems
 
 ---
 
