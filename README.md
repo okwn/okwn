@@ -28,51 +28,15 @@
 </div>
 
 ---
-
 ## Core Builds
 
-> Active, high-conviction products and systems I’m building across AI, infra, and operator tooling.
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🍒 Cheri</h3>
-      <p>Collaborative workspace infrastructure for sync, cloud coordination, task execution, and team-based AI workflows.</p>
-      <p><strong>Focus:</strong> workspace orchestration, cloud runtime, team flows</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>⚙️ Komu</h3>
-      <p>AI-native SSH operations stack for safer infrastructure actions, guided terminal workflows, and operator productivity.</p>
-      <p><strong>Focus:</strong> infra ops, CLI UX, secure automation</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🧭 TaskHelm</h3>
-      <p>Engine-first multi-model execution platform for routing work, tools, and workflows to the right model surface.</p>
-      <p><strong>Focus:</strong> orchestration, model routing, execution systems</p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="100%" valign="top">
-      <h3>🛰️ Altos Agent</h3>
-      <p>Agent-oriented build space focused on practical automation, execution pipelines, and applied AI systems.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## Organizations
-
-> Product labs and operator-focused build spaces.
+> Active organizations and serious product spaces I’m building in.
 
 <table>
   <tr>
     <td width="25%" valign="top">
       <h3>🍒 Cheri App</h3>
-      <p>Workspace and cloud coordination ecosystem.</p>
+      <p>Collaborative workspace infrastructure for sync, cloud coordination, task execution, and team-based AI workflows.</p>
       <p>
         <a href="https://github.com/Cheri-app">Organization</a><br/>
         <a href="https://github.com/Cheri-app/cheri-cli">cheri-cli</a> ·
@@ -83,7 +47,7 @@
     </td>
     <td width="25%" valign="top">
       <h3>⚙️ Komu Agent</h3>
-      <p>AI-native infrastructure and SSH operations products.</p>
+      <p>AI-native SSH operations stack for safer infrastructure actions and operator workflows.</p>
       <p>
         <a href="https://github.com/Komu-agent">Organization</a><br/>
         <a href="https://github.com/Komu-agent/komu-cli">komu-cli</a> ·
@@ -93,7 +57,7 @@
     </td>
     <td width="25%" valign="top">
       <h3>🧭 TaskHelm</h3>
-      <p>Execution infrastructure for multi-model work routing.</p>
+      <p>Engine-first multi-model execution platform for routing work to the right model surface.</p>
       <p>
         <a href="https://github.com/TaskHelm">Organization</a><br/>
         <a href="https://github.com/TaskHelm/main-release">main-release</a> ·
@@ -106,50 +70,77 @@
     </td>
     <td width="25%" valign="top">
       <h3>🛰️ Altos Agent</h3>
-      <p>Applied agent systems and automation-focused product space.</p>
-      <p>
-        <!-- Buraya gerçek organization / repo linklerini ekle -->
-        <strong>Organization:</strong> Altos Agent
-      </p>
+      <p>Applied agent systems, automation pipelines, and practical execution-oriented product space.</p>
+      <p><strong>Organization:</strong> Altos Agent</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## Flagship Repositories
+## Signature Repositories
 
-> Selected repositories that represent my strongest work across infra, AI tooling, security, and protocol systems.
+> Selected repositories that best represent my work across infra, AI tooling, automation, security, and protocol systems.
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Infrastructure & Systems</h3>
-      <ul>
-        <li><a href="https://github.com/okwn/kovi-engine"><strong>Kovi Engine</strong></a> — selector-first web data extraction infrastructure</li>
-        <li><a href="https://github.com/okwn/mcpO2"><strong>MCPO2</strong></a> — policy-aware MCP routing fabric</li>
-        <li><a href="https://github.com/okwn/shard"><strong>Shard</strong></a> — secure secrets vault with RBAC and audit-focused secret management</li>
-        <li><a href="https://github.com/okwn/shelby-mcp"><strong>Shelby MCP</strong></a> — local-first MCP server for sandboxed workflows and practical AI tooling</li>
-      </ul>
+    <td width="33%" valign="top">
+      <h3>🕸️ Kovi Engine</h3>
+      <p>Selector-first web data extraction infrastructure with durable workflows and downstream-ready delivery.</p>
+      <p><a href="https://github.com/okwn/kovi-engine">Repository</a></p>
     </td>
-    <td width="50%" valign="top">
-      <h3>AI Tools & Protocol Builds</h3>
-      <ul>
-        <li><a href="https://github.com/okwn/tempov"><strong>Tempov</strong></a> — minimal premium donation platform built on Tempo</li>
-        <li><a href="https://github.com/okwn/github-engine"><strong>GitHub Engine</strong></a> — repository intelligence engine for quality signals and docs improvement</li>
-        <li><a href="https://github.com/okwn/repo-analysis-q1"><strong>repo-analysis-q1</strong></a> — deterministic repository health scoring</li>
-        <li><a href="https://github.com/okwn/canton-mcp"><strong>Canton MCP</strong></a> — AI-native Canton builder repo and architecture base</li>
-        <li><a href="https://github.com/okwn/BaseJump"><strong>BaseJump</strong></a> — AI-ready recipes, templates, examples, and tools for building on Base</li>
-      </ul>
+    <td width="33%" valign="top">
+      <h3>🛡️ MCPO2</h3>
+      <p>Policy-aware MCP routing fabric for secure remote module access and capability-based orchestration.</p>
+      <p><a href="https://github.com/okwn/mcpO2">Repository</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🔐 Shard</h3>
+      <p>Secure secrets vault with RBAC, structured access control, and audit-oriented secret management.</p>
+      <p><a href="https://github.com/okwn/shard">Repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🧰 Shelby MCP</h3>
+      <p>Local-first MCP server for sandboxed workflows, tooling control, and practical AI integration.</p>
+      <p><a href="https://github.com/okwn/shelby-mcp">Repository</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚡ Tempov</h3>
+      <p>Minimal premium donation platform built on Tempo for creator pages and embeddable stablecoin donations.</p>
+      <p><a href="https://github.com/okwn/tempov">Repository</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧠 GitHub Engine</h3>
+      <p>Repository intelligence engine for quality signals, documentation upgrades, and repo-level analysis workflows.</p>
+      <p><a href="https://github.com/okwn/github-engine">Repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>📊 repo-analysis-q1</h3>
+      <p>Deterministic repository health scoring and structural analysis for engineering quality review.</p>
+      <p><a href="https://github.com/okwn/repo-analysis-q1">Repository</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🏛️ Canton MCP</h3>
+      <p>AI-native Canton builder repository and architecture base for protocol-oriented workflows.</p>
+      <p><a href="https://github.com/okwn/canton-mcp">Repository</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🚀 BaseJump</h3>
+      <p>AI-ready recipes, templates, examples, and tools for building faster on Base.</p>
+      <p><a href="https://github.com/okwn/BaseJump">Repository</a></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## Ventures
+## Initiatives & Brands
 
-> Product initiatives and commercial experiments.
+> Product initiatives, vertical experiments, and branded build spaces.
 
 <table>
   <tr>
@@ -170,22 +161,60 @@
       <p>Finance-oriented product and growth initiative.</p>
     </td>
   </tr>
+  <tr>
+    <td width="25%" valign="top">
+      <h3>☁️ HOSTARV</h3>
+      <p>Hosting, deployment, and infrastructure-facing product space.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>🧩 jerry.tr</h3>
+      <p>Brand and domain-led digital product initiative.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>📈 OKFINEX</h3>
+      <p>Trading, finance, and market interface exploration.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>🎬 Pixar.fun</h3>
+      <p>Creative, media, and playful product experimentation space.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+      <h3>🏢 Sirketkocu</h3>
+      <p>Business launch, setup, and startup-facing initiative.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>🦇 Yarasa.net</h3>
+      <p>Community, marketplace, and platform-oriented web brand.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>📨 Panthermail</h3>
+      <p>Privacy-conscious mail and communication product concept.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>✉️ Foosemail</h3>
+      <p>Mail infrastructure and communication-focused product initiative.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top">
+      <h3>🏭 Kartal Endüstri</h3>
+      <p>Industrial, operational, and business-oriented brand direction.</p>
+    </td>
+    <td width="25%" valign="top"></td>
+    <td width="25%" valign="top"></td>
+    <td width="25%" valign="top"></td>
+  </tr>
 </table>
 
 ---
 
-## Focus Areas
-
-- AI-native developer tools
-- CLI products
-- Automation systems
-- Infrastructure workflows
-- Secure operator experiences
-- Multi-model execution systems
-
----
+<p align="left">
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="28" alt="Linux" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okwn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html" height="150" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=okwn&theme=tokyonight" height="150" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com?user=okwn&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 </p>
