@@ -149,62 +149,17 @@
       <p>Productized web and digital build initiative.</p>
     </td>
     <td width="25%" valign="top">
-      <h3>💱 Exchangelord</h3>
-      <p>Exchange and market-oriented product initiative.</p>
-    </td>
-    <td width="25%" valign="top">
-      <h3>🏢 Sirketkur</h3>
-      <p>Company setup and operational enablement initiative.</p>
-    </td>
-    <td width="25%" valign="top">
       <h3>💸 Parapanteri</h3>
       <p>Finance-oriented product and growth initiative.</p>
     </td>
-  </tr>
-  <tr>
     <td width="25%" valign="top">
-      <h3>☁️ HOSTARV</h3>
+      <h3>☁️ HostArv</h3>
       <p>Hosting, deployment, and infrastructure-facing product space.</p>
     </td>
     <td width="25%" valign="top">
-      <h3>🧩 jerry.tr</h3>
-      <p>Brand and domain-led digital product initiative.</p>
-    </td>
-    <td width="25%" valign="top">
-      <h3>📈 OKFINEX</h3>
+      <h3>📈 Okfinex</h3>
       <p>Trading, finance, and market interface exploration.</p>
     </td>
-    <td width="25%" valign="top">
-      <h3>🎬 Pixar.fun</h3>
-      <p>Creative, media, and playful product experimentation space.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" valign="top">
-      <h3>🏢 Sirketkocu</h3>
-      <p>Business launch, setup, and startup-facing initiative.</p>
-    </td>
-    <td width="25%" valign="top">
-      <h3>🦇 Yarasa.net</h3>
-      <p>Community, marketplace, and platform-oriented web brand.</p>
-    </td>
-    <td width="25%" valign="top">
-      <h3>📨 Panthermail</h3>
-      <p>Privacy-conscious mail and communication product concept.</p>
-    </td>
-    <td width="25%" valign="top">
-      <h3>✉️ Foosemail</h3>
-      <p>Mail infrastructure and communication-focused product initiative.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" valign="top">
-      <h3>🏭 Kartal Endüstri</h3>
-      <p>Industrial, operational, and business-oriented brand direction.</p>
-    </td>
-    <td width="25%" valign="top"></td>
-    <td width="25%" valign="top"></td>
-    <td width="25%" valign="top"></td>
   </tr>
 </table>
 
