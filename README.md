@@ -14,7 +14,7 @@
   <a href="https://discord.com/users/ok_wn">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://t.me/ucgen">
+  <a href="https://t.me/okfinex8">
     <img src="https://img.shields.io/badge/Telegram%20DM's-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://okwn.cc">
