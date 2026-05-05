@@ -136,12 +136,9 @@ Applied agent systems and automation pipelines. Execution-oriented. No demos, no
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=okwn&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
 </p>
----
+
  
-<div align="center">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/i_use_Arc_btw_%F0%9F%A7%B2-FF5E00?style=for-the-badge"/>
+
 <br/><br/>
  
 <sub>82 repos. 236 stars. Still shipping. — <a href="https://okwn.cc">okwn.cc</a></sub>
