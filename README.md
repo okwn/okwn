@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
 </p>
-> btw I use Arc 🧲 — and yes, Linux too. Arch, specifically. You already knew.
+> btw I use Arc 🧲 — and yes, Linux too. :)
  
 ---
  
