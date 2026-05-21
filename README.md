@@ -99,7 +99,9 @@ agentic infra · mcp tooling · devops automation · product systems
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=okwn&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=okwn&theme=github_dark" />
+
+<br/>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=okwn&theme=github-compact&hide_border=true&area=true" />
 
